@@ -6,4 +6,4 @@ In this code I have manually implemented two models using numpy. The first model
 This code gives a complete clarity of how actually a Neural Networks work.
 
 Dataset need to be uploaded where I have given the comment "#upload your own dataset". The data set need to be a binary classification data set (example: wheather a given image is cat or not) 
-Make few changes to the code (Already mentioned in the code) if required based on the data set used and the code can be executed by following the comments given in the code. 
+Make few changes to the code (Already mentioned in the code) if required based on the data set used and the code can be executed by following the comments given. 
